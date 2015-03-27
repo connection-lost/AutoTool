@@ -1,0 +1,10 @@
+name: AutoTool
+main: me.crafter.mc.autotool.AutoTool
+version: 1.0
+description: >
+             Automatically change player's tool if not suitable. First plugin that implements UUID.
+commands:
+   autotool:
+      permission: autotool.basic
+      usage: |
+         /autotool
